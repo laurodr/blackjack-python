@@ -2,15 +2,14 @@
 
 ### Blackjack ###
 
-* This is a version of the [backjack game](https://en.wikipedia.org/wiki/Blackjack) made with Python
-* Version 1.0
-* [holandesfrito](https://bitbucket.org/holandesfrito/)
+* Versión del [juego de Blackjack](https://es.wikipedia.org/wiki/Blackjack) hecho con Python
+* Versión 1.0
+* [laurodr](https://github.com/laurodr/)
 
-### How do run the program? ###
+### Cómo ejecutar el programa ###
 
-* First you need to have installed Python on your computer. You can find all the information needed [here](https://www.python.org/about/gettingstarted/) 
-* Once you have Python installed you just need to download the files into a folder and execute the file *run.sh* on a terminal like this: 
-
+* Primero necesitas tener instalado Python en el ordenador. Puedes encontrar toda la información necesaria para esto [aquí] (https://www.python.org/about/gettingstarted/) 
+* Una vez tengas Python instalado, descarga los archivos del proyecto en una carpeta y ejecuta el archivo *run.sh* en un terminal de la siguiente manera: 
 
 ```
 #!shell script
