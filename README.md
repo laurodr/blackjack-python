@@ -8,7 +8,7 @@
 
 ### Cómo ejecutar el programa ###
 
-* Primero necesitas tener instalado Python en el ordenador. Puedes encontrar toda la información necesaria para esto [aquí] (https://www.python.org/about/gettingstarted/) 
+* Primero necesitas tener instalado Python en el ordenador. Puedes encontrar toda la información necesaria para esto [aquí](https://www.python.org/about/gettingstarted/) 
 * Una vez tengas Python instalado, descarga los archivos del proyecto en una carpeta y ejecuta el archivo *run.sh* en un terminal de la siguiente manera: 
 
 ```
